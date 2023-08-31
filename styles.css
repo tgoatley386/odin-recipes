@@ -1,0 +1,21 @@
+* {
+  font-family: Tahoma, sans-serif;
+  color: black
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+ul li {
+  color: #2C6B82
+  font-size: 14px;
+}
+
+p {
+  font-size: 16px;
+  background-color: #404040
+  color: #FFFFFF;
+}
+
